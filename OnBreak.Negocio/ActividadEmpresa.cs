@@ -21,6 +21,6 @@ namespace OnBreak.Negocio
             IdActividadEmpresa = 0;
             Descripcion = string.Empty;
         }
-        ///HOLA
+        
     }
 }
